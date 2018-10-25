@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "clicked": false,
+      "image": "http://www.anapaula.io/animals/animals-01.svg"
+    },
+    {
+      "id": 2,
+      "clicked": false,
+      "image": "http://www.anapaula.io/animals/animals-02.svg"
+    },
+    {
+      "id": 3,
+      "clicked": false,
+      "image": "http://www.anapaula.io/animals/animals-03.svg"
+    },
+    {
+      "id": 4,
+      "clicked": false,
+      "image": "http://www.anapaula.io/animals/animals-04.svg"
+    },
+    {
+      "id": 5,
+      "clicked": false,
+      "image": "http://www.anapaula.io/animals/animals-05.svg"
+    },
+    {
+      "id": 6,
+      "clicked": false,
+      "image": "http://www.anapaula.io/animals/animals-06.svg"
+    },
+    {
+      "id": 7,
+      "clicked": false,
+      "image": "http://www.anapaula.io/animals/animals-07.svg"
+    },
+    {
+      "id": 8,
+      "clicked": false,
+      "image": "http://www.anapaula.io/animals/animals-08.svg"
+    },
+    {
+      "id": 9,
+      "clicked": false,
+      "image": "http://www.anapaula.io/animals/animals-09.svg"
+    }
+  ]
+  
